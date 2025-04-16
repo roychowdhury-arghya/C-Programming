@@ -1,0 +1,1 @@
+    int ncr = factorial(n)/(factorial(r)*factorial(n-r));
