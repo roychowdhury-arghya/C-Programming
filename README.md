@@ -1,2 +1,2 @@
-# C-Programming
-Just Doing Practice with C
+Just Doing Practice with C.
+College-Walah/Raghab Sir
