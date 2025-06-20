@@ -2,7 +2,7 @@
 #include <string.h>
 int main(){
     char str[100];
-    puts("Enter a spring :");
+    puts("Enter a string :");
     gets(str);
     int size =0 ;
     int k =0;
