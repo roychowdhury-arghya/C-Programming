@@ -14,6 +14,12 @@ int main()
     if (n <= 0)
         printf("Sorry it's invalid!");
     else
-        printf("%d", fibo(n));
+    {
+        // printf("%d", fibo(n));
+        for (int i = 1; i <= n; i++)
+        {
+            printf("%d ", fibo(i));
+        }
+    }
     return 0;
 }
