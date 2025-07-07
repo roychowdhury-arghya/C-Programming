@@ -1,0 +1,1 @@
+Printf("The name of the book is :%s\n", A.name);
